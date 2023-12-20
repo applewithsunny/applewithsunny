@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @applewithsunny
-- 👀 I’m interested in CI/CD, Jenkins pipeline scripts and bash scripting
-- 🌱 I’m currently learning groovy pipeline scripts
+- 👀 I’m interested in CI/CD, Jenkins pipeline and bash scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
